@@ -1,6 +1,6 @@
 # QR Code Component
 
-This is a responsive qr code component card project built using HTML and CSS
+This is a responsive QR code component card project built using HTML and CSS
 
 ## Live Link
 
