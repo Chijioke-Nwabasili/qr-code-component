@@ -14,4 +14,3 @@ The source code for this project is available here on [GitHub](https://github.co
 
 - Website - [Chijioke-Nwabasili](https://github.com/chijioke-nwabasili)
 - LinkedIn - [Chijioke-Nwabasili](https://www.linkedin.com/in/chijioke-nwabasili)
-- Frontend Mentor - [Chijioke-Nwabasili](https://www.frontendmentor.io/profile/chijioke-nwabasili)
