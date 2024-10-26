@@ -2,6 +2,11 @@
 
 This is a QR code component card project built using HTML and CSS
 
+## Features:
+
+Adapts beautifully to any device, ensuring accessibility.
+Simple and Intuitive design that highlights the QR code.
+
 ## Live Link
 
 You can see the live project [here](https://chijioke-nwabasili.github.io/qr-code-component/)
